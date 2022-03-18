@@ -1,0 +1,14 @@
+Atribut			Tipe				Keterangan 
+comic_name			Diskrit nominal		Nama Komik
+active_years		Numerik interval		Tahun aktif komik
+issue_title			Diskrit nominal		Judul bagian
+publish_date		Numerik interval		Tanggal terbit
+issue_description		Diskrit nominal		Deskripsi bagian
+penciler			Diskrit nominal		Nama seniman		
+writer			Diskrit nominal		Penulis komik
+cover_artist		Diskrit nominal		Seniman cover
+imprint			Diskrit nominal		Jejak penerbit (nama dagang di mana ia menerbitkan sebuah karya)
+format			Diskrit nominal		Format komik
+rating			Diskrit ordinal		Rating komik (untuk anak anak, dewasa, dll)
+price				Numerik rasio		Harga komik
+			
